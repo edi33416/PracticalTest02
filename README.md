@@ -1,2 +1,1 @@
-# PracticalTest02
-EIM Final Practical Test
+Staniloiu Constantin Eduard 341C1
